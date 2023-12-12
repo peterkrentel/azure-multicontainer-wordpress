@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/0409446c-0e3b-464f-bf8a-6bd47e0922ad/resourceGroups/mygroup/providers/Microsoft.Web/sites/pk-wordpress",
+    "appService.deploySubpath": "."
+}
